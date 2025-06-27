@@ -1,1 +1,3 @@
 # Arquitectura-de-Software-Emergentes
+
+Event Storming: https://miro.com/welcomeonboard/Ynl1ZUNRMmdiVU5OMVhPeXdpSUE2M2czelErT2dhbXBGcnlMODB5bTF0NnFROGYrMmpONmtYcy9kNXBGeW5yU2FnOGwyeVNwQnFVQ1lqamtvTVhBYjQ5VWxENHRGR20zUnFBRTVvK1RhMTBYRzBjcWVaUmwrTi9WWlNlcTJIdHVzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=835706428103
